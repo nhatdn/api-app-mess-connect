@@ -1,7 +1,7 @@
-const items = require("./data/messeges");
-const tags = require("./data/accounts");
+const messeges = require("./data/messeges");
+const accounts = require("./data/accounts");
 
 module.exports = {
-  items,
-  tags,
+  messeges,
+  accounts,
 };

@@ -1,0 +1,10 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "from": "nhat",
+      "to": "duyen",
+      "content": "hello Duyen"
+    }
+  ]
+}

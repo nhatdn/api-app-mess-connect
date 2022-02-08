@@ -1,14 +1,16 @@
-{
+[
+  {
   "accounts": [
-    {
-      "id": 1,
-      "username": "nhat",
-      "password": "nhat"
-    },
-    {
-      "id": 2,
-      "username": "duyen",
-      "password": "duyen"
-    }
-  ]
-}
+      {
+        "id": 1,
+        "username": "nhat",
+        "password": "nhat"
+      },
+      {
+        "id": 2,
+        "username": "duyen",
+        "password": "duyen"
+      }
+    ]
+  }
+]

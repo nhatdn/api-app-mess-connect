@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "username": "nhat",
+      "password": "nhat"
+    },
+    {
+      "username": "duyen",
+      "password": "duyen"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "from": "nhat",
+      "to": "duyen",
+      "content": "hello Duyen"
+    }
+  ]
+}
